@@ -1,0 +1,2 @@
+A web application that is a rgb color guessing game. When the page loads up it has 6 random colored tiles, that are always different.
+At the top of the page is the rgb color code [RGB(xxx,xxx,xxx)] and we have to guess which color this is in the tiles below.  
